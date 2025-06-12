@@ -1,6 +1,8 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tanmayk03/REPO_NAME/main/assets/coding-creativity.gif" alt="Coding Creativity" />
-</div>
+<p align="center">
+  <a href="https://github.com/tanmayk03/tanmayk03">
+    <img src="https://github.com/tanmayk03/tanmayk03/raw/main/Python%20Javascript%20GIF%20by%20Cod%C3%A9dex.gif" alt="Python JavaScript GIF" />
+  </a>
+</p>
 
 
 # Welcome To My GitHub Profile! 👋
@@ -120,3 +122,6 @@ GitHub | LinkedIn
 ---
 
 If you’re still reading, why not **follow me**? Let’s connect and build amazing projects together! 🚀✨
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" alt="That's All Folks" />
+</p>
