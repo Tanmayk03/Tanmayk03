@@ -15,7 +15,6 @@ Creative web dev ☕️💻 powered by Stack Overflow 🐙 and caffeine ⚡️
 
 ### 👨‍💻 Coder
 
-👨‍💻 Coder
 🔭 I’m currently working on:
 React | JavaScript | HTML | CSS | Tailwind CSS | Vite | REST APIs | MongoDB
 
