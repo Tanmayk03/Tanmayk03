@@ -29,6 +29,7 @@ Web Development | React | Tailwind CSS | JavaScript | UI Animations
 🤓 Active User at:
 GitHub | LinkedIn
 📫 How to reach me:  
+
 ✉️ tanmaykapoor003@example.com
 ## 
 ### Languages
