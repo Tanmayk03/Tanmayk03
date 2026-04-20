@@ -1,185 +1,236 @@
-<p align="center">
-  <a href="https://github.com/tanmayk03/tanmayk03">
-    <img src="https://github.com/tanmayk03/tanmayk03/raw/main/Python%20Javascript%20GIF%20by%20Cod%C3%A9dex.gif" alt="Banner" width="700"/>
-  </a>
-</p>
+<!-- HEADER -->
+<div align="center">
 
-<h1 align="center">Hi, I'm Tanmay Kapoor 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a1a2e,100:16213e&height=250&section=header&text=Tanmay%20Kapoor&fontSize=60&fontColor=f97316&fontAlignY=40&desc=Full-Stack%20Dev%20%7C%20CS%20Data%20Science%20%7C%20Building%20What%20Matters&descAlignY=62&descColor=94a3b8&animation=twinkling" width="100%"/>
 
-<p align="center">
-  <b>Full-Stack Developer &nbsp;·&nbsp; AI/ML Enthusiast &nbsp;·&nbsp; B.Tech CS (Data Science) @ SRM University Delhi-NCR</b>
-</p>
+<br/>
 
-<p align="center">
-  Building production-grade web apps and intelligent systems — one commit at a time.
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+MERN+Stack+%F0%9F%9A%80;B.Tech+CS+(Data+Science)+%40+SRM+University;GateBuddy+%E2%80%94+Live+App+Used+on+Campus;Oracle+Certified+Data+Science+Professional;Open+to+SDE+%7C+Data+%7C+AI+Internships)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tanmay-kapoor-4a9925286/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/eqjnf1ga3a/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://tanmayk.in" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:tanmaykapoor003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/savagetk.03" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanmayk03&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-kapoor-4a9925286/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-f97316?style=for-the-badge&logo=vercel&logoColor=white)](https://tanmayk.in)
+[![LeetCode](https://img.shields.io/badge/LeetCode_100%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/eqjnf1ga3a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanmaykapoor003@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=tanmayk03&label=Profile+Views&color=f97316&style=flat-square)
+
+</div>
+
+<!-- ABOUT -->
+<table>
+<tr>
+<td valign="top" width="55%">
+
+### 🧑‍💻 Who am I?
+
+```js
+const tanmay = {
+  role      : ["Full-Stack Developer", "CS (Data Science) Student"],
+  uni       : "SRM University Delhi-NCR",
+  cgpa      : 8.46,
+  status    : "3rd Year → May 2027",
+  seeking   : "SDE | Data | AI Internship 🚀",
+  devStack  : ["React", "Node.js", "Express", "MongoDB"],
+  dsStack   : ["Python", "Oracle Cloud AI", "Azure AI", "Gen AI"],
+  highlight : "Built GateBuddy — used by real campus students",
+};
+```
+
+- 🚪 Creator of **GateBuddy** — live app with real users on campus
+- 📊 **B.Tech CS (Data Science)** — bridging dev skills with data thinking
+- 🤖 **Oracle Certified Data Science Pro** + Azure AI + Generative AI certified
+- 🥇 **1st Place** — App Development Competition
+- 🎯 Coordinated **Hackstasy × Microsoft** — ₹20L prize pool, 200+ participants
+- ⚡ I build full-stack apps AND understand the data behind them.
+
+</td>
+<td valign="top" width="45%" align="center">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" alt="coding gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧑‍💻 About Me
+<!-- GATEBUDDY HERO SECTION -->
+<div align="center">
 
-I'm a third-year Computer Science student specializing in Data Science, with a strong focus on full-stack development and applied AI. I enjoy building systems that are both technically robust and user-friendly — from real-time voice AI platforms to scalable delivery applications.
+## 🚪 Featured: GateBuddy
 
-- 🎓 **B.Tech CS (Data Science)** — SRM University Delhi-NCR &nbsp;|&nbsp; CGPA: **8.44** &nbsp;|&nbsp; Graduating May 2027
-- 🛠️ Currently building **VoicePrep** — a real-time AI interview coach powered by Vapi + Gemini 2.0
-- 🤖 Passionate about **LLM integration**, **voice AI**, and building intelligent user experiences
-- 💼 Actively seeking **SDE**, **ML Engineer**, and **AI/LLM Engineer** internship opportunities
-- 🏆 Active competitive programmer on LeetCode — consistent DSA problem solver
-- ⚡ Outside of code: photography, video editing, and building things nobody asked for
+> *The app I built. The app students actually use. Every day.*
+
+<img src="https://img.shields.io/badge/STATUS-LIVE%20%26%20ACTIVE-22c55e?style=for-the-badge&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/USERS-Campus%20Students-f97316?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/STACK-MERN-3b82f6?style=for-the-badge"/>
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+<b>❓ Problem</b><br/><br/>
+Hostel students struggle to get items from the campus gate — no easy way to coordinate pickups.
+</td>
+<td width="33%" align="center" valign="top">
+<b>💡 Solution</b><br/><br/>
+A real-time platform where students post pickup requests and runners fulfill them instantly.
+</td>
+<td width="33%" align="center" valign="top">
+<b>🎯 Impact</b><br/><br/>
+✅ Used by hostel residents daily<br/>
+✅ Killed coordination chaos<br/>
+✅ Real orders. Real users.
+</td>
+</tr>
+</table>
+
+<table>
+<tr><td><b>🧠 Backend</b></td><td>Order lifecycle engine, session-based auth, geo-aware filtering (Node.js + Express)</td></tr>
+<tr><td><b>🎨 Frontend</b></td><td>Optimized React UI with seamless state management and fast API integration</td></tr>
+<tr><td><b>🗄️ Database</b></td><td>Scalable MongoDB schema with engagement analytics to track adoption</td></tr>
+<tr><td><b>🚀 Deploy</b></td><td>Live on Vercel — zero downtime, always on</td></tr>
+</table>
+
+> 💡 **This isn't a demo project.** GateBuddy is deployed, discoverable, and used by real students solving a real problem. That's the part I'm most proud of.
+
+**Stack:** `React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Vercel`
+
+<div align="center">
+
+[![GateBuddy Live](https://img.shields.io/badge/🌐_View_Live-GateBuddy-f97316?style=for-the-badge)](https://gatebuddy.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/tanmayk03)
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Other Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🎙️ **VoicePrep** | Real-time AI interview platform with live voice streaming, adaptive question generation, and session feedback | Vapi, Gemini 2.0, React, Node.js, Express |
-| 🛵 **Hyperlocal Delivery App** | End-to-end delivery platform with real-time order tracking, driver assignment, and customer dashboard | React, Node.js, Express, MongoDB, Firebase |
-| 📲 **Scan & Pay** | QR code-based digital payment app with secure transaction flow, payment history, and user auth | React, Firebase Firestore, Node.js, Express |
-| 🗂️ **KanBan.AI** | AI-assisted Kanban board with smart task suggestions, drag-and-drop workflow, and team collaboration | React, Redux, Node.js, MongoDB |
+<details>
+<summary><b>📲 Scan & Pay — QR-Based Payment System</b> &nbsp; <img src="https://img.shields.io/badge/LIVE-22c55e?style=flat-square"/></summary>
+<br/>
+
+> Contactless QR payments with real-time validation and an embedded fraud detection layer.
+
+- RESTful APIs for transaction orchestration, identity verification & payment workflow automation  
+- End-to-end with React.js + MongoDB — fluid UI with structured data persistence
+
+**Stack:** `React` `Node.js` `Express` `MongoDB`
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🛵 Hyperlocal Delivery App — Full-Stack Commerce Platform</b> &nbsp; <img src="https://img.shields.io/badge/LIVE-22c55e?style=flat-square"/></summary>
+<br/>
+
+> End-to-end delivery platform — product catalog, cart, checkout, live order tracking.
+
+- Credential-based access control, inventory queries, high-throughput order processing  
+- AI-powered product recommendations + live shipment status updates
+
+**Stack:** `React` `Node.js` `Express` `MongoDB` `Redux` `Tailwind CSS` `Vite`
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🗂️ KanBan.AI — Intelligent Task Automation</b> &nbsp; <img src="https://img.shields.io/badge/LIVE-22c55e?style=flat-square"/></summary>
+<br/>
+
+> Kanban board powered by LLMs — autonomous task classification, priority assignment & workflow execution.
+
+- Context-aware task routing, dynamic status transitions via AI APIs  
+- Drag-and-drop board with real-time progress visualization
+
+**Stack:** `JavaScript` `React` `Node.js` `AI APIs` `Supabase`
+
+</details>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💬 Languages
+<div align="center">
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="45" height="45"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="45" height="45"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="45" height="45"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="45" height="45"/>
-</p>
+| Layer | Tech |
+|-------|------|
+| **Languages** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
+| **Data & AI** | ![Oracle](https://img.shields.io/badge/Oracle_Cloud_AI-F80000?style=flat-square&logo=oracle&logoColor=white) ![Azure](https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![GenAI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white) ![SAP](https://img.shields.io/badge/SAP_S%2F4HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
-### 🖥️ Frontend
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React.js" alt="React" width="45" height="45"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="45" height="45"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" alt="Tailwind CSS" width="45" height="45"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="45" height="45"/>
-  &nbsp;
-  <img src="https://vitejs.dev/logo.svg" title="Vite" alt="Vite" width="45" height="45"/>
-</p>
-
-### ⚙️ Backend
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="45" height="45"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="Express.js" width="45" height="45"/>
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="45" height="45"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase Firestore" alt="Firebase" width="45" height="45"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" title="Supabase" alt="Supabase" width="45" height="45"/>
-</p>
-
-### 🧰 Tools & Platforms
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="45" height="45"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="45" height="45"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="45" height="45"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="45" height="45"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="45" height="45"/>
-</p>
-
----
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmayk03&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanmayk03&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
-</p>
+</div>
 
 ---
 
 ## 💼 Experience
 
-**Application Development Intern** — *Decrypton*
-> Contributed to full-stack application development, working with real-world codebases and collaborating on production features using React, Node.js, and MongoDB.
+### Decrypton &nbsp;·&nbsp; Application Development Intern &nbsp;·&nbsp; `May – Aug 2025` &nbsp;·&nbsp; Remote
+
+- **APIs** — Built 4+ core RESTful modules (users, products, carts, orders) with Node.js & Express using modular design
+- **Frontend** — React + Tailwind + Redux UI that reduced state complexity significantly across the app
+- **Database** — MongoDB schema design for scalable storage; Axios/Fetch integration for clean frontend-backend comms
 
 ---
 
 ## 🎓 Certifications
 
-- 🌐 View all certifications on [LinkedIn →](https://www.linkedin.com/in/tanmay-kapoor-4a9925286/)
+```
+📜  Oracle Cloud Infrastructure 2025 — Data Science Professional    [Oracle]          Oct 2025
+📜  Microsoft Azure AI Essentials Professional Certificate          [Microsoft]       Jul 2025
+📜  Career Essentials in Generative AI                              [Microsoft]       Jul 2025
+📜  Generative AI for Web Developers (AI-Powered Pair Programming)  [LinkedIn]        Aug 2025
+📜  Introduction to ERP — SAP S/4HANA                              [SAP Alliances]   Nov 2025
+📜  Application Development Internship (MERN Stack)                 [Decrypton]       2025
+```
 
 ---
 
-## 📈 Competitive Programming
+## 🏆 Wins & Leadership
 
-- ⚔️ Active on **LeetCode** — consistent solver across DSA topics
-- Focus areas: Arrays, Trees, Graphs, Dynamic Programming, Bit Manipulation
-- Profile: [leetcode.com/u/eqjnf1ga3a](https://leetcode.com/u/eqjnf1ga3a/)
-
----
-
-## 📫 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/tanmay-kapoor-4a9925286/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://tanmayk.in" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:tanmaykapoor003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+```
+🥇  1st Place           App Development Competition
+🎯  Hackstasy × MS      200+ participants · 10+ sponsors · ₹20L prize pool (Coordinator)
+📸  CSI SRMIST          Photography & Video Editing Co-Lead
+⚔️  LeetCode            100+ problems — Arrays · Trees · Graphs · DP · Bit Manipulation
+```
 
 ---
 
-<p align="center">
-  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tanmayk03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316&text_color=94a3b8" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmayk03&theme=tokyonight&hide_border=true&background=0d1117&ring=f97316&fire=f97316&currStreakLabel=f97316&sideLabels=94a3b8&dates=94a3b8" width="48%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanmayk03&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=f97316&line=ea580c&point=f97316" width="97%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**📬 Open to SDE Internship Opportunities**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-kapoor-4a9925286/)
+[![Portfolio](https://img.shields.io/badge/See_My_Work-Portfolio-f97316?style=for-the-badge&logo=vercel&logoColor=white)](https://tanmayk.in)
+[![Email](https://img.shields.io/badge/Drop_a_Mail-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanmaykapoor003@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer" width="100%"/>
+
+*"First, solve the problem. Then, write the code." — John Johnson*
+
+</div>
