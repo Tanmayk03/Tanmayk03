@@ -10,7 +10,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-kapoor-4a9925286/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-f97316?style=for-the-badge&logo=vercel&logoColor=white)](https://tanmayk.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-f97316?style=for-the-badge&logo=vercel&logoColor=white)](https://tanmayk.tech)
 [![LeetCode](https://img.shields.io/badge/LeetCode_100%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/eqjnf1ga3a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanmaykapoor003@gmail.com)
 
