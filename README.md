@@ -103,7 +103,7 @@ A real-time platform where students post pickup requests and runners fulfill the
 
 <div align="center">
 
-[![GateBuddy Live](https://img.shields.io/badge/🌐_View_Live-GateBuddy-f97316?style=for-the-badge)](https://gatebuddy.vercel.app)
+[![GateBuddy Live](https://img.shields.io/badge/🌐_View_Live-GateBuddy-f97316?style=for-the-badge)](https://www.gatebuddy.me)
 [![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/tanmayk03)
 
 </div>
@@ -137,6 +137,7 @@ A real-time platform where students post pickup requests and runners fulfill the
 - AI-powered product recommendations + live shipment status updates
 
 **Stack:** `React` `Node.js` `Express` `MongoDB` `Redux` `Tailwind CSS` `Vite`
+
 
 </details>
 
