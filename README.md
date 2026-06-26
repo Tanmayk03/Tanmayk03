@@ -29,7 +29,7 @@
 const tanmay = {
   role      : ["Full-Stack Developer", "CS (Data Science) Student"],
   uni       : "SRM University Delhi-NCR",
-  cgpa      : 8.46,
+  cgpa      : 8.53,
   status    : "3rd Year → May 2027",
   seeking   : "SDE | Data | AI Internship 🚀",
   devStack  : ["React", "Node.js", "Express", "MongoDB"],
